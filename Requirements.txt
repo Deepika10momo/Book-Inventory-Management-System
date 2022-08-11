@@ -12,3 +12,6 @@ Make changes to inventory:
 Add a new book.
 Update inventory for an existing book.
 Remove from the inventory.
+instructions on how to run the server:
+you need Python IDLE software with mysql connector
+you also need mysql command line client
